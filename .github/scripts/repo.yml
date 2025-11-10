@@ -8,12 +8,10 @@ ABOUT: |
 
 REFERENCIAS: |
   <ul>
-    <li>Livro AA …</li>
-    <li>Artigo BB …</li>
+    <li>Livro A …</li>
+    <li>Artigo B …</li>
   </ul>
 
-GITHUB_LINK: https://github.com/Academic-Codex/SQM405-Quimica-Geral-Experimental
+GITHUB_LINK: https://github.com/Academic-Codex/SQM0405-Quimica-Geral-Experimental
 
-ASSETS_BASE: https://academic-codex.github.io
-ASSETS_SUBDIR: img/portfolio
 HERO_FILE: laboratorio-quimica.png
