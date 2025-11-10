@@ -14,4 +14,6 @@ REFERENCIAS: |
 
 GITHUB_LINK: https://github.com/Academic-Codex/SQM405-Quimica-Geral-Experimental
 
+ASSETS_BASE: https://academic-codex.github.io
+ASSETS_SUBDIR: img/portfolio
 HERO_FILE: laboratorio-quimica.png
