@@ -1,0 +1,19 @@
+TITLE_1: SQM0405
+TITLE_2: Quimica Geral e Experimental
+SUBTITLE_1: Disciplina de graduação
+SUBTITLE_2: Material de aula, notebooks e referências.
+
+ABOUT: |
+  Este site organiza as aulas, exercícios e material suplementar da disciplina.
+
+REFERENCIAS: |
+  <ul>
+    <li>Livro AA …</li>
+    <li>Artigo BB …</li>
+  </ul>
+
+GITHUB_LINK: https://github.com/Academic-Codex/SQM405-Quimica-Geral-Experimental
+
+ASSETS_BASE: https://academic-codex.github.io
+ASSETS_SUBDIR: img/portfolio
+HERO_FILE: laboratorio-quimica.png
