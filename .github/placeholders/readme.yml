@@ -1,0 +1,12 @@
+REPO_TAGLINE: Lab practice • measurements • reports
+ASSETS_DIR: .github/readme
+CTA_TEXT: Access the full course website
+THEME: tender
+SITE_URL: https://academic-codex.github.io/SQM0405-Quimica-Geral-Experimental
+
+BG_1: "#1A1023"
+BG_2: "#2B1B3A"
+TEXT_MAIN: "#F8F2FF"
+TEXT_MUTED: "#DCCCF2"
+ACCENT: "#C4B5FD"
+CARD_RADIUS: "18"
