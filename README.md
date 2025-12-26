@@ -3,8 +3,8 @@
 </p>
 
 <p align="center">
-  <a href="https://academic-codex.github.io/PGF5002-Mecanica-Quantica-II">
-    <img src=".github/readme/hero.svg?v=2025-12-26T02:37:57.646301Z" width="100%" alt="Access the course website" />
+  <a href="https://academic-codex.github.io/SQM0405-Quimica-Geral-Experimental">
+    <img src=".github/readme/hero.svg?v=2025-12-26T03:08:42.782554Z" width="100%" alt="Access the course website" />
   </a>
 </p>
 
