@@ -4,7 +4,6 @@ on:
   push:
     branches: [ main ]
     paths:
-      - ".github/workflows/build_readme.yml"
       - ".github/placeholders/readme.yml"
   workflow_dispatch:
   repository_dispatch:
