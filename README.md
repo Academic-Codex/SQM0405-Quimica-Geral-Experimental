@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://academic-codex.github.io/SQM0405-Quimica-Geral-Experimental">
-    <img src=".github/readme/hero.svg?v=2025-12-28T18:33:47.497368Z" width="100%" alt="Access the course website" />
+    <img src=".github/readme/hero.svg?v=2025-12-28T18:35:25.383549Z" width="100%" alt="Access the course website" />
   </a>
 </p>
 
