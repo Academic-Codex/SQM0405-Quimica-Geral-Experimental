@@ -3,8 +3,8 @@
 </p> -->
 
 <p align="center">
-  <a href="https://Academic-Codex.github.io/SQM0405-Quimica-Geral-Experimental">
-    <img src=".github/readme/hero.svg?v=2026-01-08T01:41:09.077799Z" width="100%" alt="Access the course website" />
+  <a href="https://academic-codex.github.io/SQM0405-Quimica-Geral-Experimental?utm_source=SQM0405-Quimica-Geral-Experimental&utm_medium=readme">
+    <img src=".github/readme/hero.svg?v=2026-02-03T01:41:27.893962Z" width="100%" alt="Access the course website" />
   </a>
 </p>
 
